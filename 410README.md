@@ -9,7 +9,9 @@ All of this wwas done on Windows 10.
 
 *Installing*
 Dataset was located at: https://www.ncbi.nlm.nih.gov/gene/?term=ATP-binding%20cassette
+
 The online software utilized for aligning sequences was MAFFT v7: https://mafft.cbrc.jp/alignment/server/
+
 Phylogenies were built on NGPhylogeny.fr: https://ngphylogeny.fr/
 
 *Executing program*
