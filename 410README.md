@@ -5,9 +5,11 @@ This project looked at the phylogenetic relationships of 10 members of the ATP-b
 **Getting Started**
 
 *Dependencies*
+
 All of this wwas done on Windows 10.
 
 *Installing*
+
 Dataset was located at: https://www.ncbi.nlm.nih.gov/gene/?term=ATP-binding%20cassette
 
 The online software utilized for aligning sequences was MAFFT v7: https://mafft.cbrc.jp/alignment/server/
